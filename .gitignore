@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+
+tests/_output/*
+
+.sass-cache
+.DS_Store
+.ruby-version
