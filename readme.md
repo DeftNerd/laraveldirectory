@@ -1,27 +1,36 @@
-## Laravel PHP Framework
+---
+## Business Name and Motto
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Laravel Directory - The first place any aspiring artisan should look
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+## Domains
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+[LaravelDirectory.com](https://laraveldirectory.com)
 
-## Official Documentation
+## Elevator Pitch
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+A directory of all the resources that can be found out about Laravel. All submissions are crowdsourced
+and contributors earn shares in any money the site makes. 
 
-## Contributing
+## Key Features
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## Nearest Competition
 
-### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Monetization Strategies
+
+- Primarily ad sales
+- Featured placement
+- Affiliate links
+
+## Development Notes
+
+Barebones site is up and running, but it needs a total refresh with a new theme and with the 
+crowdsourcing components. 
+
+[Development Tracking](https://tree.taiga.io/project/deftnerd-laraveldirectory/backlog)
+[Git Repo](https://github.com/DeftNerd/laraveldirectory) (Public)
+
