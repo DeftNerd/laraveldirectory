@@ -31,6 +31,6 @@ and contributors earn shares in any money the site makes.
 Barebones site is up and running, but it needs a total refresh with a new theme and with the 
 crowdsourcing components. 
 
-[Development Tracking](https://tree.taiga.io/project/deftnerd-laraveldirectory/backlog)
-[Git Repo](https://github.com/DeftNerd/laraveldirectory) (Public)
+- [Development Tracking](https://tree.taiga.io/project/deftnerd-laraveldirectory/backlog)
+- [Git Repo](https://github.com/DeftNerd/laraveldirectory) (Public)
 
